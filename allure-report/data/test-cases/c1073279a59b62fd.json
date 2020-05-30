@@ -1,0 +1,147 @@
+{
+  "uid" : "c1073279a59b62fd",
+  "name" : "When I log in",
+  "fullName" : "Login: Verify User is Able to Login.When I log in",
+  "historyId" : "7bd24c12f8979ca47e583386580f2367",
+  "time" : {
+    "start" : 1590822040997,
+    "stop" : 1590822046081,
+    "duration" : 5084
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1590822040998,
+        "stop" : 1590822041028,
+        "duration" : 30
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "674fd9e95b17aa4e",
+        "name" : "Request",
+        "source" : "674fd9e95b17aa4e.json",
+        "type" : "application/json",
+        "size" : 48
+      }, {
+        "uid" : "94ad1351d2df3c60",
+        "name" : "Response",
+        "source" : "94ad1351d2df3c60.json",
+        "type" : "application/json",
+        "size" : 83
+      } ],
+      "parameters" : [ ],
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : true
+    }, {
+      "name" : "POST /session/:sessionId/execute/sync",
+      "time" : {
+        "start" : 1590822041035,
+        "stop" : 1590822041056,
+        "duration" : 21
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "a9b5bc1282c2202",
+        "name" : "Request",
+        "source" : "a9b5bc1282c2202.json",
+        "type" : "application/json",
+        "size" : 5306
+      }, {
+        "uid" : "10d6e8462135f3",
+        "name" : "Response",
+        "source" : "10d6e8462135f3.json",
+        "type" : "application/json",
+        "size" : 4
+      } ],
+      "parameters" : [ ],
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : true
+    }, {
+      "name" : "POST /session/:sessionId/execute/sync",
+      "time" : {
+        "start" : 1590822041057,
+        "stop" : 1590822041080,
+        "duration" : 23
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "129e60464e7e3321",
+        "name" : "Request",
+        "source" : "129e60464e7e3321.json",
+        "type" : "application/json",
+        "size" : 5306
+      }, {
+        "uid" : "68a16d82c68e65f7",
+        "name" : "Response",
+        "source" : "68a16d82c68e65f7.json",
+        "type" : "application/json",
+        "size" : 4
+      } ],
+      "parameters" : [ ],
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 6,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 3,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Login: Verify User is Able to Login"
+  }, {
+    "name" : "testClass",
+    "value" : "Login: Verify User is Able to Login"
+  }, {
+    "name" : "testMethod",
+    "value" : "When I log in"
+  }, {
+    "name" : "package",
+    "value" : "Login: Verify User is Able to Login"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c1073279a59b62fd.json",
+  "parameterValues" : [ "chrome" ]
+}

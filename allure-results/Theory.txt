@@ -1,0 +1,2 @@
+node_modules/.bin/allure generate --clean ./allure-results && allure open
+node_modules/.bin/allure open

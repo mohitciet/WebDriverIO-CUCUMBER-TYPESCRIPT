@@ -1,0 +1,61 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "Login: Verify User is Able to Login",
+    "children" : [ {
+      "name" : "Given the login screen is shown",
+      "uid" : "e47f889c2d818934",
+      "parentUid" : "b0011c58f1da42729492e5f6e80ccf1f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1590823029468,
+        "stop" : 1590823042987,
+        "duration" : 13519
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "When I log in",
+      "uid" : "146df62b6ab675fa",
+      "parentUid" : "b0011c58f1da42729492e5f6e80ccf1f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1590823042988,
+        "stop" : 1590823048086,
+        "duration" : 5098
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Then a confirmation message should be shown",
+      "uid" : "2fc76490476ec98c",
+      "parentUid" : "b0011c58f1da42729492e5f6e80ccf1f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1590823048087,
+        "stop" : 1590823054616,
+        "duration" : 6529
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Hook",
+      "uid" : "d1d896429b5443eb",
+      "parentUid" : "b0011c58f1da42729492e5f6e80ccf1f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1590823054617,
+        "stop" : 1590823054618,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    } ],
+    "uid" : "b0011c58f1da42729492e5f6e80ccf1f"
+  } ]
+}

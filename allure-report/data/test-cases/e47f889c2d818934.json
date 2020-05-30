@@ -1,0 +1,66 @@
+{
+  "uid" : "e47f889c2d818934",
+  "name" : "Given the login screen is shown",
+  "fullName" : "Login: Verify User is Able to Login.Given the login screen is shown",
+  "historyId" : "fece14915c2ccfe2d8be13f4efa12515",
+  "time" : {
+    "start" : 1590823029468,
+    "stop" : 1590823042987,
+    "duration" : 13519
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Login: Verify User is Able to Login"
+  }, {
+    "name" : "testClass",
+    "value" : "Login: Verify User is Able to Login"
+  }, {
+    "name" : "testMethod",
+    "value" : "Given the login screen is shown"
+  }, {
+    "name" : "package",
+    "value" : "Login: Verify User is Able to Login"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "e250a63ed038cbef",
+      "status" : "passed",
+      "time" : {
+        "start" : 1590822028425,
+        "stop" : 1590822040996,
+        "duration" : 12571
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e47f889c2d818934.json",
+  "parameterValues" : [ "chrome" ]
+}

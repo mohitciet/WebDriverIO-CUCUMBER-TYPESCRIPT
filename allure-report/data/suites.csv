@@ -1,0 +1,5 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Sat May 30 12:47:34 IST 2020","Sat May 30 12:47:34 IST 2020","1","","Login: Verify User is Able to Login","","Login: Verify User is Able to Login","Hook","Hook",""
+"passed","Sat May 30 12:47:28 IST 2020","Sat May 30 12:47:34 IST 2020","6529","","Login: Verify User is Able to Login","","Login: Verify User is Able to Login","Then a confirmation message should be shown","Then a confirmation message should be shown",""
+"passed","Sat May 30 12:47:09 IST 2020","Sat May 30 12:47:22 IST 2020","13519","","Login: Verify User is Able to Login","","Login: Verify User is Able to Login","Given the login screen is shown","Given the login screen is shown",""
+"passed","Sat May 30 12:47:22 IST 2020","Sat May 30 12:47:28 IST 2020","5098","","Login: Verify User is Able to Login","","Login: Verify User is Able to Login","When I log in","When I log in",""

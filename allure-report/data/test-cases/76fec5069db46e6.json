@@ -1,0 +1,56 @@
+{
+  "uid" : "76fec5069db46e6",
+  "name" : "Hook",
+  "fullName" : "Login: Verify User is Able to Login.Hook",
+  "historyId" : "3bc1e100cf31213390525c9e10c4cb4c",
+  "time" : {
+    "start" : 1590822051992,
+    "stop" : 1590822051992,
+    "duration" : 0
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Login: Verify User is Able to Login"
+  }, {
+    "name" : "testClass",
+    "value" : "Login: Verify User is Able to Login"
+  }, {
+    "name" : "testMethod",
+    "value" : "Hook"
+  }, {
+    "name" : "package",
+    "value" : "Login: Verify User is Able to Login"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "76fec5069db46e6.json",
+  "parameterValues" : [ "chrome" ]
+}

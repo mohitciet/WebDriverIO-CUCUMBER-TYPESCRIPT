@@ -1,0 +1,66 @@
+{
+  "uid" : "146df62b6ab675fa",
+  "name" : "When I log in",
+  "fullName" : "Login: Verify User is Able to Login.When I log in",
+  "historyId" : "7bd24c12f8979ca47e583386580f2367",
+  "time" : {
+    "start" : 1590823042988,
+    "stop" : 1590823048086,
+    "duration" : 5098
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Login: Verify User is Able to Login"
+  }, {
+    "name" : "testClass",
+    "value" : "Login: Verify User is Able to Login"
+  }, {
+    "name" : "testMethod",
+    "value" : "When I log in"
+  }, {
+    "name" : "package",
+    "value" : "Login: Verify User is Able to Login"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "c1073279a59b62fd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1590822040997,
+        "stop" : 1590822046081,
+        "duration" : 5084
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "146df62b6ab675fa.json",
+  "parameterValues" : [ "chrome" ]
+}
