@@ -31,7 +31,7 @@
     "@types/chai": "^4.2.3",
     "@types/mocha": "^5.2.7",
     "prettier": "^1.18.2",
-    "tsconfig-paths": "^3.9.0",
+    "tsconfig-paths": "^3.10.1",
     "@wdio/cucumber-framework": "5.16.10",
     "@wdio/dot-reporter": "5.16.5",
     "@wdio/cli": "^5.18.6"
